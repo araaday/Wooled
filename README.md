@@ -1,4 +1,4 @@
-# https://wooled.netlify.app
+https://wooled.netlify.app
 
 # ReactJS UI/UX E-commerce website 
 
