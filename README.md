@@ -8,6 +8,8 @@ Built using ReactJS
 Skills 
 
 - Designed UI/UX
-- Honed ReactJs skils 
+- Honed ReactJs skils
 
+![Pic](https://github.com/bringitbackalive/Wooled/blob/main/public/images/pic1.jpg)
+![Pic](https://github.com/bringitbackalive/Wooled/blob/main/public/images/pic2.jpg)
 
