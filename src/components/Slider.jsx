@@ -95,7 +95,7 @@ const Slider = () => {
                     <InfoContainer>
                         <Title>SUMMER SALE</Title>
                         <Description>SHOP NOW AND ENJOY FREE SHIPPING</Description>
-                        <Button>SHOP NOW</Button>
+                        <a href="/men" class="navfeatured-link"><Button>SHOP NOW</Button></a>
                     </InfoContainer>
                 </Slide>
             </Wrapper>

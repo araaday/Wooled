@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import './index.css';
 
 const Container = styled.div`
     height : 40px;
@@ -67,19 +68,29 @@ const Bar = () => {
         <Container>
             <Wrapper>
                 <Featured>
-                    FEATURED
+                    <a href="/" class="featured-link">
+                        FEATURED
+                    </a>
                 </Featured>
                 <Men>
-                    MEN
+                    <a href="/men" class="featured-link">
+                        MEN
+                    </a>
                 </Men>
                 <Women>
-                    WOMEN
+                    <a href="/women" class="featured-link">
+                        WOMEN
+                    </a>
                 </Women>
                 <Child>
-                    CHILD
+                    <a href="/child" class="featured-link">
+                        CHILD
+                    </a>
                 </Child>
                 <Sale>
-                    SALE
+                    <a href="/sale" class="featured-link">
+                        SALE
+                    </a>
                 </Sale>
             </Wrapper>
         </Container>

@@ -2,6 +2,7 @@ import { Badge } from '@material-ui/core';
 import { Search, ShoppingCartOutlined } from '@material-ui/icons';
 import React from 'react'
 import styled from 'styled-components';
+import "./index.css"
 
 const Container = styled.div`
     height: 60px;
@@ -77,11 +78,11 @@ const Navbar = () => {
                         <Logo>Wooled</Logo>
                     </Center>
                     <Right>
-                        <MenuItems>LOGIN</MenuItems>
-                        <MenuItems>REGISTER</MenuItems>
+                        <MenuItems><a href="/login" class="navfeatured-link">LOGIN</a></MenuItems>
+                        <MenuItems><a href="/register" class="navfeatured-link">REGISTER</a></MenuItems>
                         <MenuItems>
                             <Badge badgeContent={4} color="primary">
-                                <ShoppingCartOutlined></ShoppingCartOutlined>
+                                <a href="/cart" class="navfeatured-link"><ShoppingCartOutlined></ShoppingCartOutlined></a>
                             </Badge>
                         </MenuItems>
                     </Right>

@@ -2,7 +2,7 @@ import React from "react";
 import Bar from "../components/Bar";
 import Categories from "../components/Categories";
 import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/ListNavbar";
 import Newsletter from "../components/Newsletter";
 import Slider from "../components/Slider";
 

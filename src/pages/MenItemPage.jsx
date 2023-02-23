@@ -103,7 +103,7 @@ const ProductList = () => {
                     </Filter>
                 </Right>
             </FilterContainer>
-            <Products />
+            <a href='/item'> <Products /> </a>
             <Newsletter />
             <Footer />
         </Container>

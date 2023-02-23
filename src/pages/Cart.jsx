@@ -1,7 +1,7 @@
 import { Add, Remove } from "@material-ui/icons";
 import styled from "styled-components";
 import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/ListNavbar";
 import Bar from "../components/Bar";
 
 const Container = styled.div``;

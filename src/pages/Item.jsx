@@ -2,7 +2,7 @@ import { Add, Remove } from "@material-ui/icons";
 import styled from "styled-components";
 import Bar from "../components/Bar";
 import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/ListNavbar";
 import Newsletter from "../components/Newsletter";
 
 
