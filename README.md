@@ -1,10 +1,13 @@
-Netlify link - https://wooled.netlify.app
-
 # ReactJS UI/UX E-commerce website 
+--------------------------------------
+Netlify link - https://wooled.netlify.app
+--------------------------------------
 
-Built using ReactJS 
+Built using ReactJS
 
 Skills 
 
 - Designed UI/UX
 - Honed ReactJs skils 
+
+
